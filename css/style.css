@@ -1,0 +1,22 @@
+.hadding-font {
+    font-family: 'EB Garamond', serif;
+}
+.pragrape-font {
+    font-family: 'Poppins', sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+    color: #414040;
+    font-family: 'EB Garamond', serif;
+}
+p {
+    color: #707070;
+}
+header nav .navbar a:hover{
+    background-color: transparent;
+}
+header nav .navbar .navbar-end a{
+    background-color: #b68c5a;
+}
+header nav .navbar .navbar-end a:hover{
+    background-color: #b68c5a;
+}
