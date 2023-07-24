@@ -20,3 +20,7 @@ header nav .navbar .navbar-end a{
 header nav .navbar .navbar-end a:hover{
     background-color: #b68c5a;
 }
+.service-section .card .card-body{
+    gap: 0;
+    padding: 0;
+}
